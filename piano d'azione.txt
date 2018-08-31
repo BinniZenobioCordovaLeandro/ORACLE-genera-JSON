@@ -1,0 +1,20 @@
+TODO: "31/08/2018":
+[ ] capire a MogoDB -> DB no relazionale (però sappiamo che prende una chiave per sapere quale dato prendere).
+[ ] vedere come fare "query" dentro di MongoDB.
+[ ] vedere e capire come FM3 salva i dati della scheda dentro del DB "MongoDB" - no relazionale.
+
+NOTES/STEPS MAESTRO PAOLO:
+SELECT * FROM VL_FORM_DATA WHERE ID_ACTIVITY = 495;
+FM2:
+[*] Step 1: Scheda FM2
+[*] Step 2: Studiare schema domande e ripsota FM2
+FM3:
+[*] Step 3: Fare scheda FM3
+[ ] Step 4: Staudiare formato domande e risposte FM3
+DA FARE JSON:
+[ ] Step 5: Scrivere un procedure oracle che riesca a trasformare le domande e risposte FM2 in un salvataggio nel formato FM3
+PROVE:
+[ ] Step 6: testare la procedure
+NB: Chiedere a quelli di FM3 il formato della tabella in cui FM3 salva i dati delle schede salvate
+
+** Abbiamo preso alla scheda "1036170 , CODIFICHE PATOLOGIE ICPC" **
