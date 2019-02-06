@@ -1,0 +1,18 @@
+{
+   "schedaCodifichePatologieIcpc":{
+      "patologieIcpc":{
+         "punteggio":5,
+         "codiceICPCprimaPatologia":"Commento",
+         "codiceICPCsecondaPatologia":"Commento",
+         "codiceICPCterzaPatologia":"Commento",
+         "gravitaPrimaPatologia":0,
+         "gravitaSecondaPatologia":1,
+         "gravitaTerzaPatologia":4
+      },
+      "informazioniGenerali":{
+         "codiceFiscale":"Codice",
+         "figuraProfessionale":"Figura",
+         "commento":"Commento"
+      }
+   }
+}

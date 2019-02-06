@@ -1,0 +1,24 @@
+{
+   "cirs":{
+      "patologie":{
+         "patologieCardiache":1,
+         "ipertensione":2,
+         "apparatoVascolare":2,
+         "apparatoRespiratorio":3,
+         "occhi":1,
+         "trattoSuperiore":2,
+         "trattoInferiore":2,
+         "patologieEpatiche":1,
+         "patologieRenali":1,
+         "apparatoRiproduttivo":1,
+         "appaMuscoloScheletrico":2,
+         "sistemaNervoso":2,
+         "sistemaEndocrino":3,
+         "patologiePsichiatriche":2
+      },
+      "indice":{
+         "severita":1.79,
+         "comorbidita":2
+      }
+   }
+}

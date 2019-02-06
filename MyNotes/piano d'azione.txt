@@ -1,5 +1,20 @@
-TODO: "31/08/2018":
-[ ] capire a MogoDB -> DB no relazionale (però sappiamo che prende una chiave per sapere quale dato prendere).
+TODO "01/09/2018": "Task List Procedure"
+[ ] Prendere tutti i elementi della scheda.
+    - fare la struttura secondo le tabelle:
+      TMPLCOMPONENTS
+      ACTIVITYTYPES
+      TMPLSECTIONS
+      TMPLITEMS
+      TMPLANSWERS
+      ACTIVITIES
+      ANSWERS
+[ ] Portare i elementi rilevanti dentro di una tabella "temporale".
+    - Pensa una soluzione per i input tipo "radio" y "checkbox".
+    - Pensa una soluzione per i "combo".
+[ ] Decidere i codice che se devono dare a gli elementi rilevanti.
+
+TODO "31/08/2018":
+[*] capire a MogoDB -> DB no relazionale (però sappiamo che prende una chiave per sapere quale dato prendere).
 [ ] vedere come fare "query" dentro di MongoDB.
 [ ] vedere e capire come FM3 salva i dati della scheda dentro del DB "MongoDB" - no relazionale.
 
